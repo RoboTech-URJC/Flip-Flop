@@ -1,3 +1,5 @@
+<img width="6912" height="3456" alt="Copia de Banner HiroBot" src="https://github.com/user-attachments/assets/3716a34b-37c2-400c-9244-db1a0f0de220" />
+
 <div align="center">
 
 # 🔄 Flip-Flop Display System
